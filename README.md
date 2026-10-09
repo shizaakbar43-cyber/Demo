@@ -1,3 +1,3 @@
 # Demo
 This is my first Git Repository.
-Author - Shiza Akbar
+Shiza Akbar
